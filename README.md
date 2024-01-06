@@ -10,3 +10,7 @@
 - **Delete Event**: Remove an event from the calendar.
 - **Sign Up**: Register for a new user account.
 - **Sign In**: Log in to an existing user account.
+  
+## Demo Screenshots
+
+![Sign In ](main/Sign In.png)
