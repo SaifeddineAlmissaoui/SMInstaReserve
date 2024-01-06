@@ -14,3 +14,4 @@
 ## Demo Screenshots
 
 ![Sign In](Sign%20In.png)
+![Sign Up](Sign%20Up.png)
