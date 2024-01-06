@@ -13,5 +13,5 @@
   
 ## Demo Screenshots
 
-![Sign In](Sign%20In.png)
-![Sign Up](Sign%20Up.png)
+<img src="Sign%20In.png" alt="Sign In" width="300">
+<img src="Sign%20Up.png" alt="Sign Up" width="300">
