@@ -15,3 +15,6 @@
 
 <img src="Sign%20In.png" alt="Sign In" width="800">
 <img src="Sign%20Up.png" alt="Sign Up" width="800">
+<img src="Calendar.png" alt="Calendar" width="800">
+<img src="Event%20List.png" alt="EventList" width="800">
+
