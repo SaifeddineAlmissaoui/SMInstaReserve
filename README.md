@@ -13,5 +13,5 @@
   
 ## Demo Screenshots
 
-<img src="Sign%20In.png" alt="Sign In" width="1000">
-<img src="Sign%20Up.png" alt="Sign Up" width="1000">
+<img src="Sign%20In.png" alt="Sign In" width="800">
+<img src="Sign%20Up.png" alt="Sign Up" width="800">
